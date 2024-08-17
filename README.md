@@ -4,24 +4,26 @@
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/iAmritMalviya/fullstack-assignment
-   cd fullstack-assignment
+   git clone https://github.com/KumarRaj21/future_skills_fullstack_assignment
    ```
 
-2. **Frontend:**
-   - Create a React app in the `frontend` folder.
-   - Follow the instructions in `frontend.md` to complete the frontend.
+2. **Backend:**
+   ```bash
+     cd backend
+     npm i express mongoose cors
+     node index.js
+   ```
 
-3. **Backend:**
-   - Create a Node.js app in the `backend` folder.
-   - Follow the `backend.md` instructions to complete the backend.
+3. **Frontend:**
 
-4. **Push Your Work:**
-   - Push both the frontend and backend apps to the same repository.
-   - Make sure the repository is public.
+    ```bash
+    cd frontend
+     npm i
+     npm i axios react-icons
+     npm start
+   ```
 
-5. **Submit Your Work:**
-   - Paste the GitHub repository link in the Google form you received after pushing your code.
 
----
+   
+
 
