@@ -8,14 +8,15 @@
 }
 
 .card-container{
-    height:220px;
-    width:380px;
+    height:200px;
+    width:450px;
     display: flex;
     justify-content: center;
     align-items: center;
     border: 2px solid grey;
     border-radius: 20px;
     background-color: rgb(238, 238, 238);
+    margin-bottom: 40px;
 }
 .card-in{
     height:90%;
@@ -32,7 +33,7 @@
     justify-content: flex-start;
     align-items: center;
     border-bottom: 2px solid grey;
-    font-size: 18px;
+    font-size: 17px;
     font-weight: 600;
 }
 .card-description{
@@ -42,5 +43,5 @@
     justify-content: flex-start;
     align-items: flex-start;
     padding-top: 10px;
-    font-size: 17px;
+    font-size: 16px;
 }

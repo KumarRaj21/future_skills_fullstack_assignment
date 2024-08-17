@@ -4,7 +4,7 @@ const Header = () => {
   return (
     <div className='head-container'>
       <div className='head-1'>
-       Abstract &nbsp;|&nbsp; Head Center
+       Abstract &nbsp;|&nbsp; Help Center
       </div>
       <div className='head-2'>
       <button>submit a request</button>
